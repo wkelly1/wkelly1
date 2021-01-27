@@ -6,6 +6,7 @@
 
 - [Rowing Elite](https://www.rowingelite.co.uk) - Rowing management app
 - [Meal planner](https://github.com/wkelly1/Meal-planner)
+- [Carousel library](https://www.npmjs.com/package/carousel-slideshow)
 
 ---
 
