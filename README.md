@@ -1,6 +1,6 @@
-# Will Kelly
+# 👋 Hey there 
 
-🎓 Currently a Student at the [University of Southampton](https://www.southampton.ac.uk/)
+🎓 Currently a 4th Year Masters Student at the [University of Southampton](https://www.southampton.ac.uk/)
 
 ## Currently working on
 
