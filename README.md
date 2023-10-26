@@ -1,6 +1,6 @@
 # 👋 Hey there 
 
-🎓 Currently a 4th Year Masters Student at the [University of Southampton](https://www.southampton.ac.uk/)
+Software Engineer working in Cyber Security.
 
 ## Stuff I've done
 
